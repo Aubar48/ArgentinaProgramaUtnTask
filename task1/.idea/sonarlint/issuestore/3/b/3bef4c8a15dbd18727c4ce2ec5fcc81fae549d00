@@ -1,0 +1,51 @@
+
+m
+java:S1192È"JDefine a constant instead of duplicating this literal "El valor " 6 times.(°ñÄ€ûÿÿÿÿ8Ú‰èÖí0
+€
+java:S1192‡"]Define a constant instead of duplicating this literal "El primer numero ingresado: " 3 times.(ÌÈÆ»úÿÿÿÿ8Û‰èÖí0
+
+java:S1192™"Define a constant instead of duplicating this literal "El precio es de 3000 por c/llanta\" \", el valor final es de: " 3 times.(…ş€Ú8Ü‰èÖí0
+n
+java:S1192í"KDefine a constant instead of duplicating this literal ": MalirSal" 3 times.(™Å÷üÿÿÿÿ8Ü‰èÖí0
+?
+java:S1643¸"Use a StringBuilder instead.(°±ôúÿÿÿÿ8á‰èÖí0
+:
+java:S1643º"Use a StringBuilder instead.(®Üùİ8á‰èÖí0
+€
+java:S1488§"]Immediately return this expression instead of assigning it to the temporary variable "sumar".(¹îú‡ıÿÿÿÿ8â‰èÖí0
+
+java:S1488¬"^Immediately return this expression instead of assigning it to the temporary variable "restar".(ı‘¼şÿÿÿÿ8â‰èÖí0
+Y
+java:S4973ş"<Strings and Boxed types should be compared using "equals()".(«ùÂZ8é‰èÖí0
+Z
+java:S4973"<Strings and Boxed types should be compared using "equals()".(»Ì½˜8ê‰èÖí0
+e
+java:S2184§"BCast one of the operands of this addition operation to a "double".(¹îú‡ıÿÿÿÿ8î‰èÖí0
+h
+java:S2184¬"ECast one of the operands of this subtraction operation to a "double".(ı‘¼şÿÿÿÿ8î‰èÖí0
+f
+java:S2184³"HCast one of the operands of this multiplication operation to a "double".(èŸ»8î‰èÖí0
+`
+java:S2184½"BCast one of the operands of this division operation to a "double".(Ùó˜8î‰èÖí0
+c
+java:S2184à"ECast one of the operands of this subtraction operation to a "double".(‡Ë‹Ğ8î‰èÖí0
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±ìï8ğ‰èÖí0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(“×·ôşÿÿÿÿ8Ù“èÖí0
+c
+java:S1659"ADeclare "numb" and all following declarations on a separate line.(©ËÃ¥ıÿÿÿÿ8â“èÖí0
+c
+java:S1659"ADeclare "num2" and all following declarations on a separate line.(‘ØÆŸüÿÿÿÿ8â“èÖí0
+c	java:S107"BConstructor has 16 parameters, which is greater than 7 authorized.(™ŸÕ¨øÿÿÿÿ8ê“èÖí0
+p
+java:S2975Æ"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(™”” 8–”èÖí0
+E
+java:S1185Æ"(Remove this method to simply inherit it.(™”” 8–”èÖí0
+k	java:S100Ï"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğü‡ù8˜”èÖí0
+^	java:S125Ó"<This block of commented-out lines of code should be removed.(¶ÊÓşûÿÿÿÿ8¬”èÖí0
+V
+java:S1117à"8Rename "num3" which hides the field declared at line 13.(‡Ë‹Ğ8¿”èÖí0
+Y	java:S125‚"<This block of commented-out lines of code should be removed.(ØÚ‹‹8Ä”èÖí0
+u
+java:S3776õ"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ø”ÆÄûÿÿÿÿ8×”èÖí0
+u
+java:S3776À"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Æ¸ŸÈşÿÿÿÿ8Ü”èÖí0

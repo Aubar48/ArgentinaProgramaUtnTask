@@ -1,0 +1,84 @@
+
+z
+java:S1192£"\Define a constant instead of duplicating this literal "Desea salir de la app? S/N " 5 times.(²«›8µ³×í0
+y
+java:S1192"\Define a constant instead of duplicating this literal "Ingrese el segundo valor: " 13 times.(”†ÓÓ8¶³×í0
+
+java:S1192“"\Define a constant instead of duplicating this literal "Ingrese el valor numerico: " 3 times.(¿é‡õûÿÿÿÿ8¶³×í0
+”
+java:S1192"rDefine a constant instead of duplicating this literal "Ingrese del index cual tarea desea realizar hoy? " 5 times.(©™¥øşÿÿÿÿ8¶³×í0
+
+java:S1192/"_Define a constant instead of duplicating this literal "ingrese el valor del producto " 3 times.(‰¶›¿ùÿÿÿÿ8¶³×í0
+}
+java:S1192"[Define a constant instead of duplicating this literal "Ingrese el primer valor: " 14 times.(Í¨ìşÿÿÿÿ8¶³×í0
+~
+java:S1192©"[Define a constant instead of duplicating this literal "Volviendo al menu anterior" 4 times.(õĞ¨†şÿÿÿÿ8¶³×í0
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ÇÄ’ÿÿÿÿÿ8·³×í0
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±ìï8»³×í0
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 71 to the 15 allowed.(Çµí‘8Œµ×í0
+W
+java:S1854¹"9Remove this useless assignment to local variable "clave".(ôçôö8µ×í0
+X
+java:S1854¹":Remove this useless assignment to local variable "nombre".(ôçôö8µ×í0
+G
+java:S1481
+"+Remove this unused "frase3" local variable.(“¬è/8—µ×í0
+H
+java:S1481"+Remove this unused "elegir" local variable.(ÏÄÖ8—µ×í0
+F
+java:S1481")Remove this unused "task" local variable.(éŒ©Ú8—µ×í0
+…
+java:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(ª•ëùÿÿÿÿ8˜µ×í0
+@
+java:S1659"#Declare "clave" on a separate line.(ó°ğŸ8™µ×í0
+n	java:S128Å"LEnd this switch case with an unconditional break, return or throw statement.(‰ÆÄÎşÿÿÿÿ8«Ûä×í0
+m	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(ªëÅŞúÿÿÿÿ8±µí×í0
+C	java:S131""Add a default case to this switch.(­Ö¹§úÿÿÿÿ8œµ×í0
+m	java:S128f"LEnd this switch case with an unconditional break, return or throw statement.(—Í×©øÿÿÿÿ8î°î×í0
+C	java:S131""Add a default case to this switch.(ºÈ·ûÿÿÿÿ8µ×í0
+T
+java:S6126#"2Replace this String concatenation with Text block.(”à›¹ÿÿÿÿÿ8µ×í0
+>	java:S131q""Add a default case to this switch.(§Øº©8¦µ×í0
+>	java:S131·""Add a default case to this switch.(ó»ã:8®µ×í0
+P
+java:S6126ø"2Replace this String concatenation with Text block.(ä”ó•8¶µ×í0
+P
+java:S6126†"2Replace this String concatenation with Text block.(‘ØÜ¹8·µ×í0
+U
+java:S6126"2Replace this String concatenation with Text block.(À®£ıÿÿÿÿ8¸µ×í0
+P
+java:S6126—"2Replace this String concatenation with Text block.(Ä¯çÏ8¹µ×í0
+U
+java:S6126"2Replace this String concatenation with Text block.(…‚Ó½üÿÿÿÿ8¹µ×í0
+U
+java:S6126¬"2Replace this String concatenation with Text block.(ÿ®ÿÒıÿÿÿÿ8»µ×í0
+?	java:S131É""Add a default case to this switch.(ä±àï8½µ×í0
+U
+java:S6126Ë"2Replace this String concatenation with Text block.(ûÜåÓşÿÿÿÿ8¾µ×í0
+O
+java:S6126Ó"2Replace this String concatenation with Text block.(º³Ç^8¾µ×í0
+P
+java:S6126Ù"2Replace this String concatenation with Text block.(„¿…ş8¿µ×í0
+U
+java:S6126à"2Replace this String concatenation with Text block.(§õ²Ñúÿÿÿÿ8Àµ×í0
+O
+java:S6126ì"2Replace this String concatenation with Text block.(ıœû88Áµ×í0
+U
+java:S6126ó"2Replace this String concatenation with Text block.(€ëˆ€üÿÿÿÿ8Âµ×í0
+P
+java:S6126ú"2Replace this String concatenation with Text block.(áºÁà8Âµ×í0
+P
+java:S6126ş"2Replace this String concatenation with Text block.(¾¶ÒÅ8Âµ×í0
+U
+java:S6126‡"2Replace this String concatenation with Text block.(Ïáûµúÿÿÿÿ8Ãµ×í0
+P
+java:S6126Œ"2Replace this String concatenation with Text block.(Ïò™Å8Ãµ×í0
+P
+java:S6126‘"2Replace this String concatenation with Text block.(•×İÔ8Ãµ×í0
+P
+java:S6126•"2Replace this String concatenation with Text block.(Šˆóò8Ãµ×í0
+O
+java:S6126™"2Replace this String concatenation with Text block.(¨¹Ä<8Äµ×í0
+U
+java:S6126¡"2Replace this String concatenation with Text block.(ô£«„üÿÿÿÿ8Äµ×í0
